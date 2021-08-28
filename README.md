@@ -4,11 +4,11 @@
 
 The 2021 season of Hacker Cup will take place over 5 online rounds:
 
-  - Qualification Round (Aug. 27th, 10am PDT - Aug. 30th, 10am PDT)
-  - Round 1 (Sept. 11th 10am PDT - Sept. 12th, 10am PDT)
-  - Round 2 (Sept. 25th, 10am - 1pm PDT)
-  - Round 3 (Oct. 9th, 10am - 1pm PDT)
-  - Final Round (Late 2021)
+  - [Qualification Round (Aug. 27th, 10am PDT - Aug. 30th, 10am PDT)]()
+  - [Round 1 (Sept. 11th 10am PDT - Sept. 12th, 10am PDT)]()
+  - [Round 2 (Sept. 25th, 10am - 1pm PDT)]()
+  - [Round 3 (Oct. 9th, 10am - 1pm PDT)]()
+  - [Final Round (Late 2021)]()
 
 **@Qualification Round**
 
